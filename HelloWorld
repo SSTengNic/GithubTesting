@@ -5,3 +5,5 @@
 5. Apparently, Cloning is to get the copy from the remote to the local repo. But pulling will update the changes made in the remote, to the local copy. So This is from the GitHub (2206, 5/17/2023). 
 5.1 Pull request should be made to pull the changes (5 & 5.1) to my local repo.
 6. Pull request worked. Now I edit the local repo first, before making a pull request to see what happens. (2235, 5/17/2023)
+7. Apparently, I cannot have an edited local repo file, and make a pull request of an updated remote repo. Instead, they tell me to stash the edited local repo first, before making a pull request to the remote repo.
+7.1 I will branch this and explore that feature a little bit (2049, 5/17/2023).
