@@ -5,3 +5,4 @@
 5. Apparently, Cloning is to get the copy from the remote to the local repo. But pulling will update the changes made in the remote, to the local copy. So This is from the GitHub (2206, 5/17/2023). 
 5.1 Pull request should be made to pull the changes (5 & 5.1) to my local repo.
 6. Pull request worked. Now I edit the local repo first, before making a pull request to see what happens. (2235, 5/17/2023)
+7. Apparently, when you branch and choose "leave my changes on ORIGINBRNACH", it will save the changes you have made to your ORIGINBRANCH, while your new brnach will be your ORIGINBRANCH, without the changes made yet. That is why this is labelled as 8, instead of 7. 7 is in the main branch. "Bring my changes to NEW BRANCH" will do the opposite, so it will leave the ORIGINBRANCH as it is, and then transfer the changes made to the NEW BRANCH
