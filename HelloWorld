@@ -4,3 +4,4 @@
 4. Check if there is a pull request when I push the commited changes (2202, 5/17/2023)
 5. Apparently, Cloning is to get the copy from the remote to the local repo. But pulling will update the changes made in the remote, to the local copy. So This is from the GitHub (2206, 5/17/2023). 
 5.1 Pull request should be made to pull the changes (5 & 5.1) to my local repo.
+6. Pull request worked. Now I edit the local repo first, before making a pull request to see what happens. (2235, 5/17/2023)
