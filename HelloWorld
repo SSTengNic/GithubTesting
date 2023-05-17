@@ -7,3 +7,4 @@
 6. Pull request worked. Now I edit the local repo first, before making a pull request to see what happens. (2235, 5/17/2023)
 7. Apparently, I cannot have an edited local repo file, and make a pull request of an updated remote repo. Instead, they tell me to stash the edited local repo first, before making a pull request to the remote repo.
 7.1 I will branch this and explore that feature a little bit (2049, 5/17/2023).
+8. Interesting, I can easily swap inbetween the branches by using the Github Desktop. (2252, 5/17/2023)
